@@ -1,0 +1,8 @@
+numpy
+opencv-python
+tifffile
+imagecodecs
+matplotlib
+scikit-learn
+scipy
+joblib
